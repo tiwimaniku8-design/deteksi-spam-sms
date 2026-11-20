@@ -1,0 +1,8 @@
+scikit-learn
+nltk
+pandas
+numpy
+ucimlrepo
+matplotlib
+streamlit
+joblib
