@@ -3,7 +3,7 @@
 Project akhir mata kuliah Natural Language Processing (NLP), Prodi Informatika, Fakultas Teknik, Universitas Khairun Ternate.
 
 ## Kelompok
-Nama kelompok: Kelompok NLP Spam SMS
+Nama kelompok: **Trivisia**
 
 | No | Nama | NPM | Peran |
 |----|------|-----|-------|
